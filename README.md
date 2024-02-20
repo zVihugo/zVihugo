@@ -10,8 +10,10 @@
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
   - ![Java](https://img.shields.io/badge/-Java-orange)
   - ![C](https://img.shields.io/badge/-C-blue)
+  - ![React.js](https://img.shields.io/badge/-React.js-blue)
 - 🗃️ Banco de Dados:
   - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
 
 ## Projetos
@@ -24,5 +26,3 @@
 - 📧 Ou me enviar um e-mail: zvihugo@hotmail.com
 
 - ![Programação GIF](https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e478mpxqjf70j431tfzyz4v6ryfbt5mkhtbobwpsuir&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
