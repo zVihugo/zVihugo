@@ -1,4 +1,5 @@
-<img src="https://caminho/para/a/imagem/banner.jpg" alt="Banner para Sala de Aula de Campanha de Arrecadação de Fundos e Doações Resposta a Crises Estilo Clean Ilustrativo em Azul e Vermelho" width="500">
+![Banner para Sala de Aula de Campanha de Arrecadação de Fundos e Doações Resposta a Crises Estilo Clean Ilustrativo em Azul e Vermelho](https://github.com/zVihugo/zVihugo/assets/118476125/57518158-7834-44d1-8c95-d7ec292f0854)
+
 
 ## Sobre mim
 - 👨‍🎓 Aluno de Análise e Desenvolvimento de Sistemas na <a href="http://www.utfpr.edu.br/">UTFPR</a>
