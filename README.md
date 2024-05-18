@@ -28,5 +28,11 @@
 - 📫 Você pode me encontrar no LinkedIn: <a href="https://www.linkedin.com/in/victor-moreira-ab8923229/">Victor Moreira</a>
 - 📧 Ou me enviar um e-mail: zvihugo@hotmail.com
 
+
+##Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zVihugo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zVihugo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 <img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e478mpxqjf70j431tfzyz4v6ryfbt5mkhtbobwpsuir&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Programação GIF" width="500">
 
