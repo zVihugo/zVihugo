@@ -1,8 +1,4 @@
-
-![Banner para Sala de Aula de Campanha de Arrecadação de Fundos e Doações Resposta a Crises Estilo Clean Ilustrativo em Azul e Vermelho](https://github.com/zVihugo/git-find/assets/118476125/637072de-087b-4fa8-84d8-f593e2faa134)
-
-
-
+![Banner para Sala de Aula de Campanha de Arrecadação de Fundos e Doações Resposta a Crises Estilo Clean Ilustrativo em Azul e Vermelho](https://caminho/para/a/imagem/banner.jpg)
 
 ## Sobre mim
 - 👨‍🎓 Aluno de Análise e Desenvolvimento de Sistemas na [UTFPR](http://www.utfpr.edu.br/)
@@ -11,22 +7,22 @@
 ## Habilidades
 - 💡 Experiência em desenvolvimento front-end e back-end.
 - 🚀 Linguagens de programação:
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  - ![Java](https://img.shields.io/badge/-Java-orange)
-  - ![C](https://img.shields.io/badge/-C-blue)
-  - ![React.js](https://img.shields.io/badge/-React.js-blue)
+  - ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+  - ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
+  - ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
+  - ![React.js](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
 - 🗃️ Banco de Dados:
-  - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+  - ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg)
+  - ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg)
 
+- 😂 IDE:
+  - ![Visual Studio Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
 
 ## Projetos
 - 👨‍💻 Alguns projetos interessantes que trabalhei:
-  - [Projeto 1](https://github.com/zVihugo/Calculadora-Simples)
-  - [Projeto 2](https://github.com/zVihugo/Projeto2-WebFrontEnd)
+  - [Desafio Dio](https://github.com/zVihugo/desafio-dio)
+  - [Consumindo API do DragonBall](https://github.com/zVihugo/proje_react_vite_deploy)
 
 ## Contato
-- 📫 Você pode me encontrar no LinkedIn: https://www.linkedin.com/in/victor-moreira-ab8923229/
-- 📧 Ou me enviar um e-mail: zvihugo@hotmail.com
-
-- ![Programação GIF](https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e478mpxqjf70j431tfzyz4v6ryfbt5mkhtbobwpsuir&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+- 📫 Você pode me encontrar no LinkedIn: [Victor Moreira](https://www.linkedin.com/in/victor-moreira-ab8923229/)
+- 📧 Ou me enviar
