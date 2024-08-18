@@ -3,7 +3,7 @@
 
 ## Sobre mim
 - 👨‍🌾 Aluno de Análise e Desenvolvimento de Sistemas na <a href="http://www.utfpr.edu.br/">UTFPR</a>
-- 🤠 Apaixonado por programação, sempre buscando soluções criativas, tanto no código quanto na vida no campo.
+- 🤠 Apaixonado por programação, sempre buscando soluções criativa.
 
 ## Habilidades
 - 🌾 Experiência em desenvolvimento front-end e back-end, com aquele toque de simplicidade do campo.
