@@ -46,4 +46,4 @@
   <a href="mailto:zvihugo@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-[<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhqaGp3ajRneHBhbHczYm1jMDZpeWhjNzB5Z3hjZ2tnZmJteGpwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cvrL5j2fbHYHK/giphy.webp" alt="Tratorzão" width="800">](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBldXM4YjE0N29naXhmdXdlMnR1OGR4bjlydnZpbDJxb2JjZTFwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif)
+<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBldXM4YjE0N29naXhmdXdlMnR1OGR4bjlydnZpbDJxb2JjZTFwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDfulMGefshaQBW/giphy.gif" alt="Tratorzão" width="800">
